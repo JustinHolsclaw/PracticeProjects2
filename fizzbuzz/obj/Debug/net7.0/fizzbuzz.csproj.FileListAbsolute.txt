@@ -1,0 +1,14 @@
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.exe
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.deps.json
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.runtimeconfig.json
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.dll
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\bin\Debug\net7.0\fizzbuzz.pdb
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.dll
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\refint\fizzbuzz.dll
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.pdb
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\jhols\Desktop\practiceProjects\fizzbuzz\obj\Debug\net7.0\ref\fizzbuzz.dll
